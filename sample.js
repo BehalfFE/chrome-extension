@@ -1,1 +1,1 @@
-alert("What? a script from outer space?");
+"What? a script from outer space?";
